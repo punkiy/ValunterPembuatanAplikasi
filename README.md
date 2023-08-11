@@ -6,4 +6,3 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut volunter yang diterima
 
 * masih latihanya, [00.or.id).
-* muammar, {linkedlin}(sdasda.ssdsdas.com)
